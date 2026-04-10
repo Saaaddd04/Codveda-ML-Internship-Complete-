@@ -1,0 +1,4 @@
+For Level 3, 
+I used the Scikit-Learn Breast Cancer dataset for Task 1
+And the Keras MNIST dataset for task 2
+These datasets are loaded directly via API for better reproducibility.
